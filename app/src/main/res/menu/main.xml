@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nuevo"
+        android:icon="@drawable/side_nav_bar"
+        android:title="Nuevo Producto" />
+    <item android:title="Reiniciar Inventario" android:id="@+id/reiniciar"/>
+    <item android:title="Mi Inventario" android:id="@+id/actual"/>
+</menu>
